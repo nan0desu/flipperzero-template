@@ -23,7 +23,7 @@ A template for kick-starting a Rust + FlipperZero project using [`flipperzero-rs
 ## Generate the project
 1. Use `cargo generate` to clone this template:
     ```
-    cargo generate --git https://github.com/flipperzero-rs/flipperzero-template.git --name my-project
+    cargo generate --git https://github.com/nan0desu/flipperzero-template --name my-project
     ```
 1. Switch into the local directory:
     ```
